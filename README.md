@@ -8,8 +8,8 @@ The clean data can then be worked on to produce the final data frame, Tidy Data.
 The CodeBook.md file describes the variables, data, and work performed to alter those features.
 
 A brief guide to each file:
-CodeBook.md: Guide to the variables, data, and work perormed.
-run_analysis.R: The R script which cleans data and produces the Tidy Data dataframe.
-Tidy Data.txt: The Tidy Data dataframe.
+* CodeBook.md: Guide to the variables, data, and work perormed.
+* run_analysis.R: The R script which cleans data and produces the Tidy Data dataframe.
+* Tidy Data.txt: The Tidy Data dataframe.
 
 All work was produced by C2C William Hatton.
