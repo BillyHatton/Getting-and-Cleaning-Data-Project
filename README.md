@@ -3,6 +3,7 @@ Repo for my coursera project
 
 This repository contains a Tidy Data.txt file, which is the end product data frame created by the run_analysis.R script.
 The run_analyis.R script reads in the data from Samsung phones about activity movement. It then cleans the data.
+The data is cleaned by applying the grep() function to select the desired variable columns.
 The clean data can then be worked on to produce the final data frame, Tidy Data.txt.
 The CodeBook.md file describes the variables, data, and work performed to alter those features.
 
