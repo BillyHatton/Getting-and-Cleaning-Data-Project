@@ -2,7 +2,7 @@
 #Code Book
 
 The data used for the files in this repository come from Samsung phones and the measurements of movement they record.
-Data was collected for 30 subjects and classified for 6 different activities.
+Data was collected for 30 subjects and classified for 6 different activities. All the data is measured in standard gravity units (g) for the acceleration and normalized to be contained on the interval [-1,1].
 The Activities are:
 * Walking (1)
 * Walking_Upstairs (2)
